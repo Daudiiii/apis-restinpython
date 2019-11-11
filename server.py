@@ -21,7 +21,12 @@ books = [
      'title': 'Dhalgren',
      'author': 'Samuel R. Delany',
      'first_sentence': 'to wound the autumnal city.',
-     'published': '1975'}
+     'published': '1975'},
+    {'id': 3,
+     'title': 'Book about passing HI Ing. without doin a shit',
+     'author': 'Students of HI',
+     'first_sentence': 'First, start with creating cheatsheet',
+     'published': '2019'}
 ]
 
 # Create the application instance
